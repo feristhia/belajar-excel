@@ -1,0 +1,13 @@
+#summary Artikel Mengenai VLookup dan Link E-Book.
+#labels Featured
+
+= Fungsi VLookup Pada Excel 2007 =
+
+Fungsi VLookup adalah salah satu fungsi lookup (pencarian) yang disediakan oleh Microsoft Excel. Fungsi ini digunakan untuk mencari data dari suatu table referensi dan ditempatkan pada cell yang menggunakan fungsi tersebut.
+
+
+= Referensi Artikel dan E-Book =
+
+Rincian penggunaan fungsi VLookup ini dapat Anda lihat pada url berikut :
+  * Artikel : [http://www.belajarexcel.info/belajar-microsoft-excel-2007/fungsi-vlookup Fungsi VLookup Pada Excel 2007]
+  * E-Book : [http://contoh-spreadsheet.googlecode.com/files/Vlookup%20Excel%202007.pdf Artikel dalam bentuk PDF]
