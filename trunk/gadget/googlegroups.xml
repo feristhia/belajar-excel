@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-  <ModulePrefs title="Hello World!" />
-  <Content type="html">
-    <![CDATA[
-	<div style="display:block;text-align:left">
-	<table border=0 style="background-color: #fff; padding: 5px;" cellspacing=0>
-	  <tr><td>
-	  <img src="http://groups.google.com/intl/en/images/logos/groups_logo_sm.gif"
-			 height=30 width=140 alt="Google Groups">
-	  </td></tr>
-	  <tr><td style="padding-left: 5px">
-	  <b>Subscribe to Belajar Excel</b>
-	  </td></tr>
-	  <form action="http://groups.google.com/group/belajar-xls/boxsubscribe">
-	  <tr><td style="padding-left: 5px;">
-	  Email: <input type=text name=email>
-	  <input type=submit name="sub" value="Subscribe">
-	  </td></tr>
-	</form>
-	<tr><td align=right>
-	  <a href="http://groups.google.com/group/belajar-xls">Visit this group</a>
-	</td></tr>
-	</table>
-	</div>
-    ]]>
-  </Content>
+<ModulePrefs title="Google Groups sign-up box" title_url="http://sites.google.com/site/gadgetsbysj/gadgets/group-subscribe-box" description="Display a subscribe box for your Google Group so your site readers can sign-up for a group by entering their email." height="200" width="200" thumbnail="http://sites.google.com/site/gadgetsbysj/gadgets/group-subscribe-box/groups-signup.png" screenshot="http://sites.google.com/site/gadgetsbysj/gadgets/group-subscribe-box/groups-signup-screenshot.png" author="Scott Johnston" author_email="scott.m.johnston@gmail.com"/>
+<UserPref name="groupname" display_name="Group Name" required="true"/>
+<UserPref name="tagline" display_name="Subscription message" default_value="Email:"/>
+<Content type="html">
+<![CDATA[
+<img src="http://groups.google.com/groups/img/3nb/groups_bar.gif" height="26" width="132" alt="Google Groups"> <div style="font-family:Helvetica,Arial,sans-serif;font-size:small;"> <form style="border:1px solid #ccc;padding:3px;text-align:center;margin-top:5px;" action="http://groups.google.com
+]]>
+<![CDATA[
+/group/__UP_groupname__/boxsubscribe" target="_blank"> <p>__UP_tagline__</p> <p><input type=text name=email></p> <p><input type=submit name="sub" value="Subscribe"></p> <p><a href="http://groups.google.com/group/__UP_groupname__" target="_blank">View group</a></p> </form> </div>
+]]>
+</Content>
 </Module>
