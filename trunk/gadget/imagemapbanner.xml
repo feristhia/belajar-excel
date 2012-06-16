@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="Hello World!" />
+  <Content type="html">
+    <![CDATA[
+	<div style="display:block;text-align:left">
+		<img border="0" src="http://www.belajarexcel.info/_/rsrc/1338428059078/home/banner_inkscape_retouch.png" style="display:block;margin-right:auto;margin-left:auto;text-align:center" usemap="#Image-Maps_1201205291919552">
+	</div>
+		<br>
+		<map name="Image-Maps_1201205291919552">
+		<area alt="Our Youtube Channel" coords="493,231,592,312" href="http://www.youtube.com/user/DataTraining" shape="rect" title="belajarexcel.info youtube account" target="_blank">
+		<area alt="BelajarExcel Facebook Page" coords="602,231,701,312" href="http://www.facebook.com/belajarexcel" shape="rect" title="belajarexcel facebook page" target="_blank">
+		<area alt="Twitter @belajarexcel" coords="734,231,833,312" href="https://twitter.com/#!/belajarexcel" shape="rect" title="twitter belajarexcel" target="_blank">
+		<area alt="Subscribe to our Electronic Publication" coords="379,231,478,312" href="http://www.belajarexcel.info/download-e-book" shape="rect" title="subscribe to our publication" target="_top">
+		<area alt="Daftar Isi" coords="371,185,511,232" href="http://www.belajarexcel.info/daftar-isi" shape="rect" title="Daftar Isi" target="_top">
+		</map>
+	<div>
+	<hr>
+	</div>
+    ]]>
+  </Content>
+</Module>
