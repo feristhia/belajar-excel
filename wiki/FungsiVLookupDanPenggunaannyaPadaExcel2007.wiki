@@ -1,5 +1,6 @@
 #summary Artikel Mengenai VLookup dan Link E-Book.
 #labels Featured
+#sidebar DaftarIsi
 
 = VLOOKUP Pada Excel 2007 =
 
