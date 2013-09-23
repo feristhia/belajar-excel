@@ -8,8 +8,4 @@
 
 Pencarian dilakukan dengan mengambil nilai kunci dan dibandingkan secara vertikal satu per satu pada table referensi. Hasil kembalian merupakan nilai dari salah satu kolom yang ada pada tabel referensi tersebut.
 
-= Referensi Artikel dan E-Book =
-
-Rincian penggunaan fungsi VLookup ini dapat Anda lihat pada url berikut :
-  * Artikel : [http://www.belajarexcel.info/belajar-microsoft-excel-2007/fungsi-vlookup Fungsi VLookup Pada Excel 2007]
-  * E-Book : [http://contoh-spreadsheet.googlecode.com/files/Vlookup%20Excel%202007.pdf Artikel dalam bentuk PDF]
+* Artikel : [http://www.belajarexcel.info/belajar-microsoft-excel-2007/fungsi-vlookup Fungsi VLookup Pada Excel 2007]
