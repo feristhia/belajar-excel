@@ -1,0 +1,6 @@
+# VLOOKUP Pada Excel 2007 #
+
+**VLOOKUP** adalah rumus atau lebih tepatnya fungsi pencarian dari satu nilai kunci ke suatu tabel (referensi).
+
+Pencarian dilakukan dengan mengambil nilai kunci dan dibandingkan secara vertikal satu per satu pada table referensi. Hasil kembalian merupakan nilai dari salah satu kolom yang ada pada tabel referensi tersebut.
+
